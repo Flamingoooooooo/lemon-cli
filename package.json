@@ -1,12 +1,12 @@
 {
   "bin": {
-    "xr": "bin/xr",
-    "xr-add": "bin/xr-add",
-    "xr-delete": "bin/xr-delete",
-    "xr-list": "bin/xr-list",
-    "xr-init": "bin/xr-init"
+    "lemon": "bin/lemon",
+    "lemon-add": "bin/lemon-add",
+    "lemon-delete": "bin/lemon-delete",
+    "lemon-list": "bin/lemon-list",
+    "lemon-init": "bin/lemon-init"
   },
-  "name": "xr-cli",
+  "name": "lemon-cli",
   "version": "1.0.0",
   "description": "A simple CLI for creating your project",
   "main": "index.js",
